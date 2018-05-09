@@ -1,0 +1,22 @@
+{
+  "name": "rmt",
+  "version": "0.0.1",
+  "description": "an App for people who live together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teana0953/rmt.git"
+  },
+  "keywords": [
+    "rmt"
+  ],
+  "author": "loftApartment",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teana0953/rmt/issues"
+  },
+  "homepage": "https://github.com/teana0953/rmt#readme"
+}
